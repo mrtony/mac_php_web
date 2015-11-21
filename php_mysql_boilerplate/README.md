@@ -46,6 +46,12 @@
  
 於是用這個站來搭配`HR database`試了一個頁面, 可印出薪水大於6500的名單。 (看`notOrmTest.php`)
 
+# 其他ORM
+
+1. [Doctrine, the PHP ORM Framework](http://blog.eddie.com.tw/2008/12/23/doctrine-the-php-orm-framework/)
+2. [Propel](http://propelorm.org/)
+3. [ActiveRecord](http://0x3f.org/blog/flamework-active-record/)
+
 ---
 # 框架
 
