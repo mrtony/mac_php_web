@@ -235,3 +235,12 @@ chmod o+w ~/Sites/phpmyadmin/config
 8. 執行下方的儲存，在`~/Sites/phpmyadmin/config`中會產生`config.inc.php`, 將它move到`~/Sites/phpmyadmin`並將`~/Sites/phpmyadmin/config`空目錄刪除。
 
 我有將config.php備份出來, 從Github clone下來後因為沒有phpadmin, 下載完解壓後, 再將這個檔案放入phpadmin目錄中即可。
+
+---
+# php orm
+
+* [Best available PHP ORM libraries – Part 2](http://www.gajotres.net/best-available-php-orm-libraries-part-2/)
+* [PHP ORM框架](http://blog.twbryce.com/2014-07-03/169/)
+---
+#php
+* [PHP: list of best awesome PHP libraries](https://www.ma-no.org/en/content/index_php-list-of-best-awesome-php-libraries_1988.php)
